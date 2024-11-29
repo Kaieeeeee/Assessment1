@@ -10,6 +10,8 @@ Upload your solution to GitHub and share the link with us along with a quick cod
 - **dateInput**: You will need to input date and description(amount).
 - **successfulInput**: Once you inputed it correctly you will receive a point.
 - **redeem**: Redeem points when you earn points
+- **balance**
+- **list of transaction**
 
 #### Getting Started
 1. To execute this you will need Remix. https://remix.ethereum.org/
@@ -17,6 +19,7 @@ Upload your solution to GitHub and share the link with us along with a quick cod
 2. Copy the code then paste it on remix! viola! (Remember to put .sol at the end)
 
 Other notes: 
+
 The code does not work on my end with pragma 0.8.18, I used pragma  0.8.26.
 
 I also used Remix instead of Gitpod since it is not working on my end.
